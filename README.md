@@ -14,8 +14,9 @@ Usage
 =====
 
 Quick and Dirty:
+----------------
 
-1. Is your plist a binary file?
+###1 Is your plist a binary file?
 
 __YES:__
 
@@ -30,7 +31,7 @@ __NO:__
 
 Good! Go, go to step 2.
 
-2. Generate the OTA Manifest
+###2 Generate the OTA Manifest
 
 If your plist is named "Input.text.plist", the command will look like this:
 
