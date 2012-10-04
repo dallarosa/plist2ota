@@ -6,9 +6,9 @@ Generate OTA Manifest for your iOS applications from its plist file
 Requirements
 ============
 
-    #plist gem: http://rubygems.org/gems/plist
-    #perl: you're probably using a Mac so you should have this
-    #ruby: for the same reasons above, you should have this
+- plist gem: http://rubygems.org/gems/plist
+- perl: you're probably using a Mac so you should have this
+- ruby: for the same reasons above, you should have this
 
 Usage
 =====
