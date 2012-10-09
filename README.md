@@ -6,7 +6,7 @@ Generate OTA Manifest for your iOS applications from its plist file
 Requirements
 ============
 
-- plist gem: http://rubygems.org/gems/plist
+- plist gem: To install type "gem install plist" 
 - perl: you're probably using a Mac so you should have this
 - ruby: for the same reasons above, you should have this
 
@@ -40,3 +40,5 @@ If your plist is named "Input.text.plist", the command will look like this:
 The manifest will be output to STDOUT (aka, the console).
 
 Problems, troubles, requests? Use Github's Issues page!
+
+*Plist gem can found at: http://rubygems.org/gems/plist
